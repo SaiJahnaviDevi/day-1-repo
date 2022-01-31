@@ -1,0 +1,14 @@
+C:\Users\Sai Jahnavi  Devi\source\repos\LeapyearorNot\bin\Debug\netcoreapp3.1\LeapyearorNot.exe
+C:\Users\Sai Jahnavi  Devi\source\repos\LeapyearorNot\bin\Debug\netcoreapp3.1\LeapyearorNot.deps.json
+C:\Users\Sai Jahnavi  Devi\source\repos\LeapyearorNot\bin\Debug\netcoreapp3.1\LeapyearorNot.runtimeconfig.json
+C:\Users\Sai Jahnavi  Devi\source\repos\LeapyearorNot\bin\Debug\netcoreapp3.1\LeapyearorNot.runtimeconfig.dev.json
+C:\Users\Sai Jahnavi  Devi\source\repos\LeapyearorNot\bin\Debug\netcoreapp3.1\LeapyearorNot.dll
+C:\Users\Sai Jahnavi  Devi\source\repos\LeapyearorNot\bin\Debug\netcoreapp3.1\LeapyearorNot.pdb
+C:\Users\Sai Jahnavi  Devi\source\repos\LeapyearorNot\obj\Debug\netcoreapp3.1\LeapyearorNot.csproj.AssemblyReference.cache
+C:\Users\Sai Jahnavi  Devi\source\repos\LeapyearorNot\obj\Debug\netcoreapp3.1\LeapyearorNot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sai Jahnavi  Devi\source\repos\LeapyearorNot\obj\Debug\netcoreapp3.1\LeapyearorNot.AssemblyInfoInputs.cache
+C:\Users\Sai Jahnavi  Devi\source\repos\LeapyearorNot\obj\Debug\netcoreapp3.1\LeapyearorNot.AssemblyInfo.cs
+C:\Users\Sai Jahnavi  Devi\source\repos\LeapyearorNot\obj\Debug\netcoreapp3.1\LeapyearorNot.csproj.CoreCompileInputs.cache
+C:\Users\Sai Jahnavi  Devi\source\repos\LeapyearorNot\obj\Debug\netcoreapp3.1\LeapyearorNot.dll
+C:\Users\Sai Jahnavi  Devi\source\repos\LeapyearorNot\obj\Debug\netcoreapp3.1\LeapyearorNot.pdb
+C:\Users\Sai Jahnavi  Devi\source\repos\LeapyearorNot\obj\Debug\netcoreapp3.1\LeapyearorNot.genruntimeconfig.cache

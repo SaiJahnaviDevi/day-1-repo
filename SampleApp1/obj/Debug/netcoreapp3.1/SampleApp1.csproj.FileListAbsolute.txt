@@ -1,0 +1,14 @@
+C:\Users\Sai Jahnavi  Devi\source\repos\SampleApp1\bin\Debug\netcoreapp3.1\SampleApp1.exe
+C:\Users\Sai Jahnavi  Devi\source\repos\SampleApp1\bin\Debug\netcoreapp3.1\SampleApp1.deps.json
+C:\Users\Sai Jahnavi  Devi\source\repos\SampleApp1\bin\Debug\netcoreapp3.1\SampleApp1.runtimeconfig.json
+C:\Users\Sai Jahnavi  Devi\source\repos\SampleApp1\bin\Debug\netcoreapp3.1\SampleApp1.runtimeconfig.dev.json
+C:\Users\Sai Jahnavi  Devi\source\repos\SampleApp1\bin\Debug\netcoreapp3.1\SampleApp1.dll
+C:\Users\Sai Jahnavi  Devi\source\repos\SampleApp1\bin\Debug\netcoreapp3.1\SampleApp1.pdb
+C:\Users\Sai Jahnavi  Devi\source\repos\SampleApp1\obj\Debug\netcoreapp3.1\SampleApp1.csproj.AssemblyReference.cache
+C:\Users\Sai Jahnavi  Devi\source\repos\SampleApp1\obj\Debug\netcoreapp3.1\SampleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sai Jahnavi  Devi\source\repos\SampleApp1\obj\Debug\netcoreapp3.1\SampleApp1.AssemblyInfoInputs.cache
+C:\Users\Sai Jahnavi  Devi\source\repos\SampleApp1\obj\Debug\netcoreapp3.1\SampleApp1.AssemblyInfo.cs
+C:\Users\Sai Jahnavi  Devi\source\repos\SampleApp1\obj\Debug\netcoreapp3.1\SampleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Sai Jahnavi  Devi\source\repos\SampleApp1\obj\Debug\netcoreapp3.1\SampleApp1.dll
+C:\Users\Sai Jahnavi  Devi\source\repos\SampleApp1\obj\Debug\netcoreapp3.1\SampleApp1.pdb
+C:\Users\Sai Jahnavi  Devi\source\repos\SampleApp1\obj\Debug\netcoreapp3.1\SampleApp1.genruntimeconfig.cache
