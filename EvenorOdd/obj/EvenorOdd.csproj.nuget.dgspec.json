@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sai Jahnavi  Devi\\source\\repos\\SampleApp1\\SampleApp1.csproj": {}
+    "C:\\Users\\Sai Jahnavi  Devi\\source\\repos\\EvenorOdd\\EvenorOdd.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sai Jahnavi  Devi\\source\\repos\\SampleApp1\\SampleApp1.csproj": {
+    "C:\\Users\\Sai Jahnavi  Devi\\source\\repos\\EvenorOdd\\EvenorOdd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sai Jahnavi  Devi\\source\\repos\\SampleApp1\\SampleApp1.csproj",
-        "projectName": "SampleApp1",
-        "projectPath": "C:\\Users\\Sai Jahnavi  Devi\\source\\repos\\SampleApp1\\SampleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\Sai Jahnavi  Devi\\source\\repos\\EvenorOdd\\EvenorOdd.csproj",
+        "projectName": "EvenorOdd",
+        "projectPath": "C:\\Users\\Sai Jahnavi  Devi\\source\\repos\\EvenorOdd\\EvenorOdd.csproj",
         "packagesPath": "C:\\Users\\Sai Jahnavi  Devi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sai Jahnavi  Devi\\source\\repos\\SampleApp1\\obj\\",
+        "outputPath": "C:\\Users\\Sai Jahnavi  Devi\\source\\repos\\EvenorOdd\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

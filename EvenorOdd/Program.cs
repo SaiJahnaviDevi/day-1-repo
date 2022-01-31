@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SampleApp1
+namespace EvenorOdd
 {
     class Program
     {
