@@ -1,0 +1,13 @@
+C:\Users\Sai Jahnavi  Devi\source\repos\EligibleToVote\bin\Debug\netcoreapp3.1\EligibleToVote.exe
+C:\Users\Sai Jahnavi  Devi\source\repos\EligibleToVote\bin\Debug\netcoreapp3.1\EligibleToVote.deps.json
+C:\Users\Sai Jahnavi  Devi\source\repos\EligibleToVote\bin\Debug\netcoreapp3.1\EligibleToVote.runtimeconfig.json
+C:\Users\Sai Jahnavi  Devi\source\repos\EligibleToVote\bin\Debug\netcoreapp3.1\EligibleToVote.runtimeconfig.dev.json
+C:\Users\Sai Jahnavi  Devi\source\repos\EligibleToVote\bin\Debug\netcoreapp3.1\EligibleToVote.dll
+C:\Users\Sai Jahnavi  Devi\source\repos\EligibleToVote\bin\Debug\netcoreapp3.1\EligibleToVote.pdb
+C:\Users\Sai Jahnavi  Devi\source\repos\EligibleToVote\obj\Debug\netcoreapp3.1\EligibleToVote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sai Jahnavi  Devi\source\repos\EligibleToVote\obj\Debug\netcoreapp3.1\EligibleToVote.AssemblyInfoInputs.cache
+C:\Users\Sai Jahnavi  Devi\source\repos\EligibleToVote\obj\Debug\netcoreapp3.1\EligibleToVote.AssemblyInfo.cs
+C:\Users\Sai Jahnavi  Devi\source\repos\EligibleToVote\obj\Debug\netcoreapp3.1\EligibleToVote.csproj.CoreCompileInputs.cache
+C:\Users\Sai Jahnavi  Devi\source\repos\EligibleToVote\obj\Debug\netcoreapp3.1\EligibleToVote.dll
+C:\Users\Sai Jahnavi  Devi\source\repos\EligibleToVote\obj\Debug\netcoreapp3.1\EligibleToVote.pdb
+C:\Users\Sai Jahnavi  Devi\source\repos\EligibleToVote\obj\Debug\netcoreapp3.1\EligibleToVote.genruntimeconfig.cache
