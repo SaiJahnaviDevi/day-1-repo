@@ -1,0 +1,13 @@
+C:\Users\Sai Jahnavi  Devi\source\repos\FactUsingFunctions\bin\Debug\netcoreapp3.1\FactUsingFunctions.exe
+C:\Users\Sai Jahnavi  Devi\source\repos\FactUsingFunctions\bin\Debug\netcoreapp3.1\FactUsingFunctions.deps.json
+C:\Users\Sai Jahnavi  Devi\source\repos\FactUsingFunctions\bin\Debug\netcoreapp3.1\FactUsingFunctions.runtimeconfig.json
+C:\Users\Sai Jahnavi  Devi\source\repos\FactUsingFunctions\bin\Debug\netcoreapp3.1\FactUsingFunctions.runtimeconfig.dev.json
+C:\Users\Sai Jahnavi  Devi\source\repos\FactUsingFunctions\bin\Debug\netcoreapp3.1\FactUsingFunctions.dll
+C:\Users\Sai Jahnavi  Devi\source\repos\FactUsingFunctions\bin\Debug\netcoreapp3.1\FactUsingFunctions.pdb
+C:\Users\Sai Jahnavi  Devi\source\repos\FactUsingFunctions\obj\Debug\netcoreapp3.1\FactUsingFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sai Jahnavi  Devi\source\repos\FactUsingFunctions\obj\Debug\netcoreapp3.1\FactUsingFunctions.AssemblyInfoInputs.cache
+C:\Users\Sai Jahnavi  Devi\source\repos\FactUsingFunctions\obj\Debug\netcoreapp3.1\FactUsingFunctions.AssemblyInfo.cs
+C:\Users\Sai Jahnavi  Devi\source\repos\FactUsingFunctions\obj\Debug\netcoreapp3.1\FactUsingFunctions.csproj.CoreCompileInputs.cache
+C:\Users\Sai Jahnavi  Devi\source\repos\FactUsingFunctions\obj\Debug\netcoreapp3.1\FactUsingFunctions.dll
+C:\Users\Sai Jahnavi  Devi\source\repos\FactUsingFunctions\obj\Debug\netcoreapp3.1\FactUsingFunctions.pdb
+C:\Users\Sai Jahnavi  Devi\source\repos\FactUsingFunctions\obj\Debug\netcoreapp3.1\FactUsingFunctions.genruntimeconfig.cache
