@@ -6,11 +6,11 @@ namespace ConsoleApp2
 {
     class Transpose
     {
-        static void Main(String[] args)
+        static void Main2(String[] args)
         {
             int i, j, m, n;
-            int[,] arr1 = new int[30, 30];
-            int[,] arr2 = new int[30, 30];
+            int[,] arr1 = new int[50, 50];
+            int[,] arr2 = new int[50, 50];
             Console.Write("Enter no.of rows = ");
             m = Convert.ToInt32(Console.ReadLine());
             Console.Write("Enter no.of columns = ");
@@ -40,10 +40,10 @@ namespace ConsoleApp2
                 }
             }
             Console.Write("\n\nMatrix after Transpose:\n");
-            for (i = 0; i < m; i++)
+            for (i = 0; i < n; i++)
             {
                 Console.Write("\n");
-                for (j = 0; j < n; j++)
+                for (j = 0; j < m; j++)
                 {
                     Console.Write("{0}\t", arr2[i, j]);
                 }
