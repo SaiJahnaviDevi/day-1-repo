@@ -1,0 +1,13 @@
+C:\Users\Sai Jahnavi  Devi\source\repos\NumberPattern\bin\Debug\netcoreapp3.1\NumberPattern.exe
+C:\Users\Sai Jahnavi  Devi\source\repos\NumberPattern\bin\Debug\netcoreapp3.1\NumberPattern.deps.json
+C:\Users\Sai Jahnavi  Devi\source\repos\NumberPattern\bin\Debug\netcoreapp3.1\NumberPattern.runtimeconfig.json
+C:\Users\Sai Jahnavi  Devi\source\repos\NumberPattern\bin\Debug\netcoreapp3.1\NumberPattern.runtimeconfig.dev.json
+C:\Users\Sai Jahnavi  Devi\source\repos\NumberPattern\bin\Debug\netcoreapp3.1\NumberPattern.dll
+C:\Users\Sai Jahnavi  Devi\source\repos\NumberPattern\bin\Debug\netcoreapp3.1\NumberPattern.pdb
+C:\Users\Sai Jahnavi  Devi\source\repos\NumberPattern\obj\Debug\netcoreapp3.1\NumberPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sai Jahnavi  Devi\source\repos\NumberPattern\obj\Debug\netcoreapp3.1\NumberPattern.AssemblyInfoInputs.cache
+C:\Users\Sai Jahnavi  Devi\source\repos\NumberPattern\obj\Debug\netcoreapp3.1\NumberPattern.AssemblyInfo.cs
+C:\Users\Sai Jahnavi  Devi\source\repos\NumberPattern\obj\Debug\netcoreapp3.1\NumberPattern.csproj.CoreCompileInputs.cache
+C:\Users\Sai Jahnavi  Devi\source\repos\NumberPattern\obj\Debug\netcoreapp3.1\NumberPattern.dll
+C:\Users\Sai Jahnavi  Devi\source\repos\NumberPattern\obj\Debug\netcoreapp3.1\NumberPattern.pdb
+C:\Users\Sai Jahnavi  Devi\source\repos\NumberPattern\obj\Debug\netcoreapp3.1\NumberPattern.genruntimeconfig.cache
