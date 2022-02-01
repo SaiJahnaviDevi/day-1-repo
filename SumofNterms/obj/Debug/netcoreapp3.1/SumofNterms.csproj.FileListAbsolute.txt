@@ -1,0 +1,14 @@
+C:\Users\Sai Jahnavi  Devi\source\repos\SumofNterms\bin\Debug\netcoreapp3.1\SumofNterms.exe
+C:\Users\Sai Jahnavi  Devi\source\repos\SumofNterms\bin\Debug\netcoreapp3.1\SumofNterms.deps.json
+C:\Users\Sai Jahnavi  Devi\source\repos\SumofNterms\bin\Debug\netcoreapp3.1\SumofNterms.runtimeconfig.json
+C:\Users\Sai Jahnavi  Devi\source\repos\SumofNterms\bin\Debug\netcoreapp3.1\SumofNterms.runtimeconfig.dev.json
+C:\Users\Sai Jahnavi  Devi\source\repos\SumofNterms\bin\Debug\netcoreapp3.1\SumofNterms.dll
+C:\Users\Sai Jahnavi  Devi\source\repos\SumofNterms\bin\Debug\netcoreapp3.1\SumofNterms.pdb
+C:\Users\Sai Jahnavi  Devi\source\repos\SumofNterms\obj\Debug\netcoreapp3.1\SumofNterms.csproj.AssemblyReference.cache
+C:\Users\Sai Jahnavi  Devi\source\repos\SumofNterms\obj\Debug\netcoreapp3.1\SumofNterms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sai Jahnavi  Devi\source\repos\SumofNterms\obj\Debug\netcoreapp3.1\SumofNterms.AssemblyInfoInputs.cache
+C:\Users\Sai Jahnavi  Devi\source\repos\SumofNterms\obj\Debug\netcoreapp3.1\SumofNterms.AssemblyInfo.cs
+C:\Users\Sai Jahnavi  Devi\source\repos\SumofNterms\obj\Debug\netcoreapp3.1\SumofNterms.csproj.CoreCompileInputs.cache
+C:\Users\Sai Jahnavi  Devi\source\repos\SumofNterms\obj\Debug\netcoreapp3.1\SumofNterms.dll
+C:\Users\Sai Jahnavi  Devi\source\repos\SumofNterms\obj\Debug\netcoreapp3.1\SumofNterms.pdb
+C:\Users\Sai Jahnavi  Devi\source\repos\SumofNterms\obj\Debug\netcoreapp3.1\SumofNterms.genruntimeconfig.cache
