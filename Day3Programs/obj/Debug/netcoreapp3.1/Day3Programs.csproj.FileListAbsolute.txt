@@ -1,0 +1,14 @@
+C:\Users\Sai Jahnavi  Devi\source\repos\Day3Programs\bin\Debug\netcoreapp3.1\Day3Programs.exe
+C:\Users\Sai Jahnavi  Devi\source\repos\Day3Programs\bin\Debug\netcoreapp3.1\Day3Programs.deps.json
+C:\Users\Sai Jahnavi  Devi\source\repos\Day3Programs\bin\Debug\netcoreapp3.1\Day3Programs.runtimeconfig.json
+C:\Users\Sai Jahnavi  Devi\source\repos\Day3Programs\bin\Debug\netcoreapp3.1\Day3Programs.runtimeconfig.dev.json
+C:\Users\Sai Jahnavi  Devi\source\repos\Day3Programs\bin\Debug\netcoreapp3.1\Day3Programs.dll
+C:\Users\Sai Jahnavi  Devi\source\repos\Day3Programs\bin\Debug\netcoreapp3.1\Day3Programs.pdb
+C:\Users\Sai Jahnavi  Devi\source\repos\Day3Programs\obj\Debug\netcoreapp3.1\Day3Programs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sai Jahnavi  Devi\source\repos\Day3Programs\obj\Debug\netcoreapp3.1\Day3Programs.AssemblyInfoInputs.cache
+C:\Users\Sai Jahnavi  Devi\source\repos\Day3Programs\obj\Debug\netcoreapp3.1\Day3Programs.AssemblyInfo.cs
+C:\Users\Sai Jahnavi  Devi\source\repos\Day3Programs\obj\Debug\netcoreapp3.1\Day3Programs.csproj.CoreCompileInputs.cache
+C:\Users\Sai Jahnavi  Devi\source\repos\Day3Programs\obj\Debug\netcoreapp3.1\Day3Programs.dll
+C:\Users\Sai Jahnavi  Devi\source\repos\Day3Programs\obj\Debug\netcoreapp3.1\Day3Programs.pdb
+C:\Users\Sai Jahnavi  Devi\source\repos\Day3Programs\obj\Debug\netcoreapp3.1\Day3Programs.genruntimeconfig.cache
+C:\Users\Sai Jahnavi  Devi\source\repos\Day3Programs\obj\Debug\netcoreapp3.1\Day3Programs.csproj.AssemblyReference.cache
