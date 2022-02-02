@@ -40,7 +40,7 @@ namespace Day3Programs
     }
     class EmployeeDetails
     {
-        static void Main(string[] args)
+        static void Main4(string[] args)
         {
             Employee employee = new Employee();
             employee.GetEmployeeData();
